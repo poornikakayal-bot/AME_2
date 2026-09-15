@@ -1,7 +1,7 @@
 AME - LAB RECORD
 
-EXP : 01
+EXP : 02
 
-V-I CHARACTERISTICS OF GUNN DIODE
+MODE OF CHARACTERISTICS OF REFLEX KLYSTRON
 
 [2_organized.pdf](https://github.com/user-attachments/files/32221253/2_organized.pdf)
